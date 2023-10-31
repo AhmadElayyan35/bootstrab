@@ -1,0 +1,53 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+    .clr{clear: both;}
+
+
+.navbar{ background-color: black;}
+.container{ width: 80%;
+
+margin:auto}
+
+
+    .logo{ float: left;
+   }
+
+
+
+
+    .logo img{ width: 50%;
+    margin-top: 5px; }
+
+
+
+    .list { 
+float: right;}
+
+
+
+
+.list ul{  list-style-type: none;
+}
+
+
+
+.list ul li{float: left;
+    margin-right: 15px;
+    color: white;
+    margin-top: 5px;
+}
+.portfolio{
+    text-align: center;
+    margin-top: 30px;
+}
+.img{ float: left;
+width: 33.33%;}
+.img img{width:95%;
+   display: block;
+}
+
+
+
+
+
